@@ -11,6 +11,6 @@ Individuate gli elementi di cui avete bisogno per realizzare il programma.
 Genero randomicamente 5 numeri
 Mostro a video i numeri generati
 Imposto un timeout di 4500ms per la rimozione a video dei numeri
-Chiedo all'utente di inserire i numeri che ha visualizzato
+Imposto un timeout di 5000ms e chiedo all'utente di inserire i numeri che ha visualizzato
 Confronto i numeri inseriti dall'utente con quelli generati randomicamente
 Restituisco a video i numeri correntti che l'utente ha indovinato
