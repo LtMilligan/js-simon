@@ -15,9 +15,11 @@ for (let i = 0; i < 5; i++) {
     gridFirst.append(gridFirstSquare);
 }
 
+// Imposto un timeout di 4500ms per la rimozione a video dei numeri
 
-
-
+setTimeout(function () {
+    document.getElementById('gridFirst').classList.add('d-none')
+}, 4500)
 
 
 
